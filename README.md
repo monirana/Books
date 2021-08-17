@@ -1,5 +1,5 @@
 # Books
-This is a sample app I made for learning. I have used MVVM(Model-View-View Model) + clean architecture for this project.
+This is a sample app made for learning using MVVM(Model-View-View Model) + clean architecture for this project.
 
 Following topics are covered in this app:
 1. Kotlin
